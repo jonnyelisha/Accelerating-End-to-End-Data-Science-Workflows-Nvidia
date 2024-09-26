@@ -1,5 +1,6 @@
 **#RAPIDS Accelerated Data Science Workflows
-**
+
+
 **Overview**
 This repository demonstrates how to build and execute end-to-end GPU-accelerated data science workflows using the RAPIDS suite of libraries. By leveraging GPU acceleration, these workflows enable faster data exploration, iteration, and production readiness.
 
@@ -9,7 +10,8 @@ cuML: A library for GPU-accelerated machine learning algorithms (KNN, DBSCAN, Lo
 cuGraph: For performing GPU-accelerated graph analytics (e.g., single-source shortest path).
 XGBoost: GPU-accelerated gradient boosting for fast, scalable machine learning.
 cuXFilter: GPU-powered data visualization.
-Learning Outcomes
+
+**Learning Outcomes**
 Upon completing this course, you'll be able to:
 
 Implement GPU-accelerated data preparation using cuDF and Apache Arrow.
