@@ -1,4 +1,4 @@
-**#RAPIDS Accelerated Data Science Workflows
+#RAPIDS Accelerated Data Science Workflows
 
 
 **Overview**
